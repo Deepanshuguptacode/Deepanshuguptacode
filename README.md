@@ -12,12 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Insturance**
-
-- 🌱 I’m currently learning **Deep Learning**
-
 - 💬 Ask me about **Backend Development**
 
+- 🌱 I’m currently learning **Genrative AI**
+
+- 🔭 I’m had worked in **Insturance**
+- 
 - 📫 How to reach me **deepanshuguptacode@outlook.com**
 
 - 📄 Know about my experiences [https://1drv.ms/w/c/3dac65aa2ce2423c/ETxC4iyqZawggD3dlAAAAAABJToxvKgnoThhzgDY9rXKwg?e=BpDzKh](https://1drv.ms/w/c/3dac65aa2ce2423c/ETxC4iyqZawggD3dlAAAAAABJToxvKgnoThhzgDY9rXKwg?e=BpDzKh)
