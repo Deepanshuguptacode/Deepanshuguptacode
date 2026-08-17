@@ -118,7 +118,7 @@ Biometric microservice reaching **96.83%** accuracy on LFW using ArcFace, storin
 
 <!-- TODO: replace the # below with your TakeUForward (TUF+) profile URL -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-deepanshugupta650-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepanshugupta650)
-[![TakeUForward](https://img.shields.io/badge/TakeUForward-TUF+-orange?style=for-the-badge)](#)
+[![TakeUForward](https://img.shields.io/badge/TakeUForward-TUF+-orange?style=for-the-badge)](https://takeuforward.org/profile/deepanshuguptacode)
 [![DSA Solved](https://img.shields.io/badge/DSA%20Problems%20Solved-400+-success?style=for-the-badge)](#)
 
 > Note: TakeUForward doesn't currently expose a public API for a live auto-updating solved-count widget, so the badge above is a static count — update the number as you go, or link it straight to your TUF+ profile.
