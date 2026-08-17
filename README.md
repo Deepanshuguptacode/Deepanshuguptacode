@@ -6,7 +6,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=deepanshuguptacode&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
-<a href="https://linkedin.com/in/deepanshugutpa650"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/deepanshu-gupta-650d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:deepanshugupta650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <!-- TODO: swap in your real resume link/host if the OneDrive link below changes -->
 <a href="https://drive.google.com/file/d/1uQ1u-nZwWivr7UfxFMTNPxJ1_MuEIBS7/view?usp=drivesdk" alt="Resume"/></a>
@@ -69,8 +69,8 @@ Co-authored an end-to-end system design paper for a sociotechnical misinformatio
 - Weighted Verdict algorithm (expert votes weighted 3x), validated on the LIAR dataset at **87% accuracy**
 
 <!-- TODO: replace # with your IEEE Xplore link for the paper -->
-[![Platform](https://img.shields.io/badge/Live%20Platform-VoxVeritas-7AA2F7?style=flat&logo=vercel&logoColor=white)](https://www.voxveritas.me/)
-[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat&logo=ieee&logoColor=white)](#)
+[![Platform](https://img.shields.io/badge/Live%20Platform-VoxVeritas-7AA2F7?style=flat&logo=vercel&logoColor=white)](https://www.voxveritas.tech/)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat&logo=ieee&logoColor=white)](https://lnkd.in/dwsjbE3k)
 
 <br>
 
