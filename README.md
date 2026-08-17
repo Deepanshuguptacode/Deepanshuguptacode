@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/deepanshugutpa650"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:deepanshugupta650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <!-- TODO: swap in your real resume link/host if the OneDrive link below changes -->
-<a href="https://1drv.ms/w/c/3dac65aa2ce2423c/ETxC4iyqZawggD3dlAAAAAABJToxvKgnoThhzgDY9rXKwg?e=BpDzKh"><img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1uQ1u-nZwWivr7UfxFMTNPxJ1_MuEIBS7/view?usp=drivesdk" alt="Resume"/></a>
 
 </div>
 
@@ -85,7 +85,7 @@ Co-authored an end-to-end system design paper for a sociotechnical misinformatio
 
 Hybrid crowd-AI platform for misinformation verification, built alongside the IEEE paper above — Sybil-resistant voting, XAI argument clustering, and a weighted verdict engine.
 
-[Live Platform](https://www.voxveritas.me/)
+[Live Platform](https://www.voxveritas.tech/)
 <!-- TODO: add the GitHub repo link if it's public -->
 
 </td>
