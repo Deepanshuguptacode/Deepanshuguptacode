@@ -8,8 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=deepanshuguptacode&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
 <a href="https://www.linkedin.com/in/deepanshu-gupta-650d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:deepanshugupta650@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<!-- TODO: swap in your real resume link/host if the OneDrive link below changes -->
-<a href="https://drive.google.com/file/d/1uQ1u-nZwWivr7UfxFMTNPxJ1_MuEIBS7/view?usp=drivesdk" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1uQ1u-nZwWivr7UfxFMTNPxJ1_MuEIBS7/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-000000?style=flat&logo=google-drive&logoColor=white" alt="Resume"/></a>
 
 </div>
 
@@ -35,7 +34,7 @@ Backend-focused Computer Science undergraduate (AIML) at **SRM Institute of Scie
 <tr>
 <td width="50%" valign="top">
 
-**Backend Developer — Intern**
+**Backend Developer — Intern**  
 [Insturix](#) · Remote · Aug 2024 – Feb 2025
 
 - Built the Content Analyzer module on an event-driven architecture, lifting data throughput **25%**
@@ -45,7 +44,7 @@ Backend-focused Computer Science undergraduate (AIML) at **SRM Institute of Scie
 </td>
 <td width="50%" valign="top">
 
-**Backend Developer**
+**Backend Developer**  
 Rubaroo (SRM IST Cultural Fest) · Feb 2025 – Apr 2025
 
 - Architected the central backend with Express.js + JWT auth for **500+** participant registrations
@@ -68,7 +67,6 @@ Co-authored an end-to-end system design paper for a sociotechnical misinformatio
 - Explainable AI pipeline (Gemini + Vector Search) to semantically cluster and pair opposing arguments
 - Weighted Verdict algorithm (expert votes weighted 3x), validated on the LIAR dataset at **87% accuracy**
 
-<!-- TODO: replace # with your IEEE Xplore link for the paper -->
 [![Platform](https://img.shields.io/badge/Live%20Platform-VoxVeritas-7AA2F7?style=flat&logo=vercel&logoColor=white)](https://www.voxveritas.tech/)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=flat&logo=ieee&logoColor=white)](https://lnkd.in/dwsjbE3k)
 
@@ -80,23 +78,21 @@ Co-authored an end-to-end system design paper for a sociotechnical misinformatio
 <tr>
 <td width="50%" valign="top">
 
-**🗳️ VoxVeritas**
+**🗳️ VoxVeritas**  
 *Express.js · Gemini API · MongoDB · Pinecone*
 
 Hybrid crowd-AI platform for misinformation verification, built alongside the IEEE paper above — Sybil-resistant voting, XAI argument clustering, and a weighted verdict engine.
 
 [Live Platform](https://www.voxveritas.tech/)
-<!-- TODO: add the GitHub repo link if it's public -->
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 Privacy-First Face Authentication Microservice**
+**🔐 Privacy-First Face Authentication Microservice**  
 *Python Flask · InsightFace (ArcFace) · MTCNN · OpenCV · Docker*
 
 Biometric microservice reaching **96.83%** accuracy on LFW using ArcFace, storing only AES-256 encrypted 512-D embeddings, with liveness detection and FAR < 0.01% matching.
 
-<!-- TODO: add project/repo link -->
 [Repo](#)
 
 </td>
@@ -109,14 +105,13 @@ Biometric microservice reaching **96.83%** accuracy on LFW using ArcFace, storin
 
 | Certification | Issuer |
 |---|---|
-| Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle <!-- TODO: add verify link --> |
-| Backend Development Course | Physics Wallah (PW Skills) <!-- TODO: add certificate link --> |
+| Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle |
+| Backend Development Course | Physics Wallah (PW Skills) |
 
 <br>
 
 ## Coding Practice
 
-<!-- TODO: replace the # below with your TakeUForward (TUF+) profile URL -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-deepanshugupta650-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/deepanshugupta650)
 [![TakeUForward](https://img.shields.io/badge/TakeUForward-TUF+-orange?style=for-the-badge)](https://takeuforward.org/profile/deepanshuguptacode)
 [![DSA Solved](https://img.shields.io/badge/DSA%20Problems%20Solved-400+-success?style=for-the-badge)](#)
@@ -178,27 +173,32 @@ Biometric microservice reaching **96.83%** accuracy on LFW using ArcFace, storin
 ## GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepanshuguptacode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuguptacode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=deepanshuguptacode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepanshuguptacode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshuguptacode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshuguptacode&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepanshuguptacode&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
-</p>
 
 <br>
 
 ## Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/deepanshugutpa650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/deepanshugupta650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://instagram.com/deepanshugupta9522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="mailto:deepanshugupta650@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deepanshu-gupta-650d/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/deepanshugupta650" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://instagram.com/deepanshugupta9522" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:deepanshugupta650@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <br>
@@ -206,14 +206,14 @@ Biometric microservice reaching **96.83%** accuracy on LFW using ArcFace, storin
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/deepanshuguptacode/deepanshuguptacode/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/deepanshuguptacode/deepanshuguptacode/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/deepanshuguptacode/deepanshuguptacode/output/github-contribution-grid-snake.svg"
   />
 </picture>
